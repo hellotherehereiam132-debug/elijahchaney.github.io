@@ -1,4 +1,4 @@
-# elijahchaney.github.io
+# The Quiet Mathematician & Scientist
 
   Me, Elijah Chaney (Pronounced ee-li-juh chay-knee) is a 8-year-old mathematician and scientist whom studies physics using [Virtual Arkansas](virtualarkansas.org), an online platform for middle school and high school, including AP Classes and training for facilitators.
 
